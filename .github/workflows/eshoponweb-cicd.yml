@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 4a0293a9-43d8-4ae1-b229-96c1ce3c4720
   WEBAPP-NAME: eshoponweb-webapp-kaddy-18092025
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
